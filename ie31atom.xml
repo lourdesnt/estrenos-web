@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
+  
+  <title type="text">Mi canal RSS</title>
+  <updated>2020-12-15T18:53:00Z</updated>
+  <link rel="self" type="application/atom+xml" href="ie31atom.xml"></link>
+  <link rel="alternate" type="text/html" href="https://lourdesnt.github.io/Navarro_Tocon_Lourdes_I.E.2.1/"></link>
+  <id>https://lourdesnt.github.io/Navarro_Tocon_Lourdes_I.E.2.1/</id>
+
+   <entry>
+    <title>El tiempo en Sevilla (capital)</title>
+    <link rel="alternate" type="text/html" href="https://www.tiempo.es/sevilla-sevilla-es0se0093.html"></link>
+    <updated>2020-12-15T18:53:00Z</updated>
+    <id>https://www.tiempo.es/sevilla-sevilla-es0se0093.html</id>
+    <author>
+      <name>Lourdes Navarro</name>
+      <email>lourdesnt06@gmail.com</email>
+    </author>
+    <summary>Previsión meteorológica en Sevilla (capital)</summary>
+  </entry>
+  <entry>
+    <title>Noticias en Sevilla</title>
+    <link rel="alternate" type="text/html" href="https://elpais.com/noticias/sevilla/"></link>
+    <updated>2020-12-15T18:53:00Z</updated>
+    <id>https://elpais.com/noticias/sevilla/</id>
+    <author>
+      <name>Lourdes Navarro</name>
+      <email>lourdesnt06@gmail.com</email>
+    </author>
+    <summary>Noticias actuales en Sevilla</summary>
+  </entry>
+</feed>

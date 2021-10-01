@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version = "2.0">
+  <channel >
+    <title>Mi canal RSS</title>
+    <link>https://lourdesnt.github.io/Navarro_Tocon_Lourdes_I.E.2.1/</link>
+    <description>Noticias sobre el tiempo y acontecimientos en Sevilla</description>
+    <language>es-ES</language>
+    <item>
+      <title>El Tiempo en Sevilla (capital)</title>
+      <link>https://www.tiempo.es/sevilla-sevilla-es0se0093.html</link>
+      <description>Previsión meteorológica en Sevilla (capital)</description>
+    </item>
+    <item>
+    <title>Noticias en Sevilla</title>
+      <link>https://elpais.com/noticias/sevilla/</link>
+      <description>Noticias actuales en Sevilla</description>
+    </item>
+  </channel>
+</rss>
